@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Hi Everyone, Welcome To Capgemini Family, Get the future You Want  This is Prasanthi</h2>
+			<h2>Hi Everyone, Welcome To Capgemini Family, Get the future You Want</h2>
 			<h3>Capgemini Hyderabad</h3>
 			
 		</div>	
