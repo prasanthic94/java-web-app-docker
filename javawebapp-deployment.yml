@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - image: prashulava/java-web-app
-        name: javawebapp:latest
+        name: javawebapp:1.0
         ports:
         - name: javawebapp
           containerPort: 8080  
