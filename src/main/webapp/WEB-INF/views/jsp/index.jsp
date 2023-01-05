@@ -42,7 +42,6 @@
 		<div class="col-md-8">
 			<h2>Hi Everyone, Welcome To Capgemini Family, Get the future You Want</h2>
 			<h3>Capgemini Hyderabad</h3>
-			<h4>4 working days </h4>
 			
 		</div>	
 	</div>
