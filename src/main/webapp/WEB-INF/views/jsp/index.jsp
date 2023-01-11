@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Hi Everyone, Welcome To Capgemini Family, Get the future You Want !</h2>
-			<h3>Capgemini Hyderabad</h3>
+			<h2>Hi Everyone, Welcome To MyHome Family, Get the future You Want!!</h2>
+			<h3>MyHome Hyderabad</h3>
 			
 		</div>	
 	</div>
@@ -49,7 +49,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; 2022 Capgemini. All rights reserved</p>
+		<p>2022 Myhome. All rights reserved</p>
 	</footer>
 </div>
 
